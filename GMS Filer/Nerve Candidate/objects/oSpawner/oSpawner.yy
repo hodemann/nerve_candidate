@@ -1,28 +1,28 @@
 {
-    "id": "2f7fae2b-6274-40e0-b3e1-6007710cf391",
+    "id": "4e5f2afe-5571-4f40-8e23-f4c262f4745d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oPlayer",
+    "name": "oSpawner",
     "eventList": [
         {
-            "id": "f4704a14-08db-4566-a65c-88dc57f97c77",
+            "id": "8249f844-0b5c-49ca-b0c3-301cb3f20c99",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "2f7fae2b-6274-40e0-b3e1-6007710cf391"
+            "eventtype": 0,
+            "m_owner": "4e5f2afe-5571-4f40-8e23-f4c262f4745d"
         },
         {
-            "id": "4ac5f32c-e586-48e1-a66f-35e5e44c301a",
+            "id": "0bdacb5d-ce07-4d92-866f-0213f69e0fe6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
-            "m_owner": "2f7fae2b-6274-40e0-b3e1-6007710cf391"
+            "m_owner": "4e5f2afe-5571-4f40-8e23-f4c262f4745d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "f4034b62-438e-45f3-b13a-1418855def5f",
+            "id": "1b864fbe-1611-49d4-b055-3d7ad4dceede",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,40 +52,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "6",
-            "varName": "spd",
-            "varType": 0
-        },
-        {
-            "id": "8e2a7151-4a86-4a3f-af0b-512e0e81fe47",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "shoot_cooldown",
-            "varType": 0
-        },
-        {
-            "id": "14e5fa78-55ca-4114-83e0-6de724f918eb",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "9",
-            "varName": "spd_run",
+            "value": "2",
+            "varName": "police_number",
             "varType": 0
         }
     ],
     "solid": false,
-    "spriteId": "a883cee2-3a8a-486a-9b76-a0ec12a181d0",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
