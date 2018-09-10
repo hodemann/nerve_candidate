@@ -63,6 +63,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "2ccdd86a-b82b-4bea-8d27-ce1c0c8cf644",
             "Value": {
                 "id": "119bd9af-72ea-4566-a24c-2f5b329e36be",
@@ -71,6 +72,8 @@
             }
         },
         {
+=======
+>>>>>>> 3bab47048a2403db5232c9a5bc9c3f4ab9b2ab52
             "Key": "2e4173a4-6152-4a85-9c8c-faaa765e9bb3",
             "Value": {
                 "id": "e1822674-33ec-4f33-a9c9-7155c2a1178f",
@@ -95,10 +98,17 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "3380fa6a-4451-423b-af06-0f5ba95f579c",
             "Value": {
                 "id": "b799faea-b425-4122-809b-33f5338334ee",
                 "resourcePath": "sprites\\sGrass\\sGrass.yy",
+=======
+            "Key": "35fd1e0a-3b30-4619-bf63-9867b4f3c563",
+            "Value": {
+                "id": "341d06b9-e5f2-47f9-89bd-8db741e027ce",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+>>>>>>> 3bab47048a2403db5232c9a5bc9c3f4ab9b2ab52
                 "resourceType": "GMSprite"
             }
         },
@@ -127,6 +137,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "46f8ccf2-5cf5-4322-9378-030674dd9830",
             "Value": {
                 "id": "51b8476b-3412-434f-9a08-627150bd35f9",
@@ -143,6 +154,8 @@
             }
         },
         {
+=======
+>>>>>>> 3bab47048a2403db5232c9a5bc9c3f4ab9b2ab52
             "Key": "4b6e52f0-b588-4853-a7d1-9a0630bb5339",
             "Value": {
                 "id": "c4f46997-b4f4-449a-9347-8ad5a1659606",

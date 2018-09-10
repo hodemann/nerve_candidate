@@ -135,8 +135,13 @@
             "id": "5ac37ea1-2e16-4d55-872a-10639035bf4e",
             "animationFPS": 15,
             "animationSpeedType": "0",
+<<<<<<< HEAD
             "colour": { "Value": 4289901234 },
             "depth": 300,
+=======
+            "colour": { "Value": 4294967295 },
+            "depth": 100,
+>>>>>>> 3bab47048a2403db5232c9a5bc9c3f4ab9b2ab52
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -154,7 +159,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "35fd1e0a-3b30-4619-bf63-9867b4f3c563",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
