@@ -13,16 +13,6 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "2f7fae2b-6274-40e0-b3e1-6007710cf391"
-        },
-        {
-            "id": "4ac5f32c-e586-48e1-a66f-35e5e44c301a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "2f7fae2b-6274-40e0-b3e1-6007710cf391"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,50 +31,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "f4034b62-438e-45f3-b13a-1418855def5f",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "6",
-            "varName": "spd",
-            "varType": 0
-        },
-        {
-            "id": "8e2a7151-4a86-4a3f-af0b-512e0e81fe47",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "shoot_cooldown",
-            "varType": 0
-        },
-        {
-            "id": "14e5fa78-55ca-4114-83e0-6de724f918eb",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "9",
-            "varName": "spd_run",
-            "varType": 0
-        }
-    ],
+    "properties": null,
     "solid": false,
     "spriteId": "a883cee2-3a8a-486a-9b76-a0ec12a181d0",
     "visible": true

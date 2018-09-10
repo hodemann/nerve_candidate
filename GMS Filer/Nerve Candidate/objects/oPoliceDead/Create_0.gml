@@ -1,1 +1,0 @@
-oSpawner.alarm[0] = 20
