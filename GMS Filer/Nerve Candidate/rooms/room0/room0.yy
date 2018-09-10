@@ -46,11 +46,15 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "colour": { "Value": 4289901234 },
 <<<<<<< HEAD
             "depth": 300,
 =======
             "colour": { "Value": 4294967295 },
+=======
+            "colour": { "Value": 4289901234 },
+>>>>>>> parent of 3bab470... nesten ingenting
             "depth": 100,
 >>>>>>> 3bab47048a2403db5232c9a5bc9c3f4ab9b2ab52
 =======
@@ -73,7 +77,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "35fd1e0a-3b30-4619-bf63-9867b4f3c563",
+            "spriteId": "00000000-0000-0000-0000-000000000000",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
