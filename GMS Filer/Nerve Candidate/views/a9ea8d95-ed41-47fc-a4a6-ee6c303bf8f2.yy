@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "46f8ccf2-5cf5-4322-9378-030674dd9830",
         "8a5ac1ef-57dc-47fb-b1f6-a0fffb6dee88",
         "3380fa6a-4451-423b-af06-0f5ba95f579c",
@@ -21,6 +22,9 @@
 =======
         "46f8ccf2-5cf5-4322-9378-030674dd9830"
 >>>>>>> parent of 498e121... Jeg har gjort mye
+=======
+        "46f8ccf2-5cf5-4322-9378-030674dd9830"
+>>>>>>> parent of 3bab470... nesten ingenting
 =======
         "46f8ccf2-5cf5-4322-9378-030674dd9830"
 >>>>>>> parent of 3bab470... nesten ingenting

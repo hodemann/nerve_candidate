@@ -47,11 +47,15 @@
             "animationSpeedType": "0",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "colour": { "Value": 4289901234 },
 <<<<<<< HEAD
             "depth": 300,
 =======
             "colour": { "Value": 4294967295 },
+=======
+            "colour": { "Value": 4289901234 },
+>>>>>>> parent of 3bab470... nesten ingenting
 =======
             "colour": { "Value": 4289901234 },
 >>>>>>> parent of 3bab470... nesten ingenting
